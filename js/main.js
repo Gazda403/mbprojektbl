@@ -1,6 +1,6 @@
 /**
  * MB PROJEKT BANJA LUKA — GLAVNA JAVASCRIPT LOGIKA
- * Namještaj po mjeri, enterijeri, 3D vizuelizacija i opremanje objekata
+ * Namještaj po mjeri, enterijeri, projektovanje i opremanje objekata
  * Bulevar vojvode Stepe Stepanovića 124, Banja Luka
  */
 
@@ -811,7 +811,7 @@ document.addEventListener('DOMContentLoaded', () => {
       project: 'Kompletan stan & TV zid',
       rating: 5,
       verified: true,
-      quote: 'Opremanje stana od 85m² prošlo je bez ijednog stresa. 3D vizuelizacija u njihovom salonu u Stepe Stepanovića nam je riješila sve dileme oko dekora. Kvalitet izrade i drvnih spojeva je na nivou italijanskih luksuznih brendova.'
+      quote: 'Opremanje stana od 85m² prošlo je bez ijednog stresa. Konsultacije i detaljni planovi u njihovom salonu u Stepe Stepanovića su nam riješili sve dileme oko dekora. Kvalitet izrade i drvnih spojeva je na nivou italijanskih luksuznih brendova.'
     },
     {
       id: 3,
